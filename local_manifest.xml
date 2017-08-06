@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Device repos -->
+<project path="device/J7xelte-dev/samsung/j7xelte" name="J7xelte-dev/android_device_samsung_j7xelte" remote="github" revision="master"/>
+<project name="device/samsung/j7xelte-common" path="device/J7xelte-dev/android_device_samsung_j7xelte-common" remote="github"  revision="master" />
+<project path="kernel/samsung/universal7870" name="J7xelte-dev/android_kernel_samsung_universal7870" remote="github" revision="master"/>
+<project path="vendor/samsung_j7xelte-common" name="J7xelte-dev/android_vendor_samsung_j7xelte-common" remote="github" revision="master" />
+<project name="CyanogenMod/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+</manifest>
