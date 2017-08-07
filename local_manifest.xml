@@ -2,10 +2,10 @@
 <manifest>
 
 <!-- Device Tree repos -->
-<project name="J7xelte-dev/android_device_samsung_j7xelte" path="device/J7xelte-dev/samsung/j7xelte" remote="github" revision="master"/>
-<project name="J7xelte-dev/android_device_samsung_j7xelte-common" path="device/samsung/j7xelte-common" remote="github"  revision="master" />
-<project name="J7xelte-dev/android_kernel_samsung_universal7870" path="kernel/samsung/universal7870"  remote="github" revision="master"/>
-<project name="J7xelte-dev/android_vendor_samsung_j7xelte-common" path="vendor/samsung_j7xelte-common" remote="github" revision="master" />
+<project name="J7xelte-dev/android_device_samsung_j7xelte" path="device/J7xelte-dev/samsung/j7xelte" remote="github" revision="cm-14.1"/>
+<project name="J7xelte-dev/android_device_samsung_j7xelte-common" path="device/samsung/j7xelte-common" remote="github"  revision="cm-14.1" />
+<project name="J7xelte-dev/android_kernel_samsung_universal7870" path="kernel/samsung/universal7870"  remote="github" revision="cm-14.1"/>
+<project name="J7xelte-dev/android_vendor_samsung_j7xelte-common" path="vendor/samsung_j7xelte-common" remote="github" revision="cm-14.1" />
 <!-- Hardware/dependencies repos -->
 <project name="J7xelte-dev/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
 <project name="J7xelte-dev/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
